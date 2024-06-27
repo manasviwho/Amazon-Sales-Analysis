@@ -12,6 +12,12 @@ This project demonstrates a comprehensive analysis of Amazon sales data using Ex
 - **Excel**: Data cleaning and pre-processing using Power Query Editor.
 - **Power BI**: Data visualization and dashboard creation.
 
+- ## Data Cleaning Process
+- **Removed duplicates**
+- **Handled missing values**
+- **Formatted columns for consistency**
+- **Ensured data accuracy and completeness**
+
 ## Dashboards
 ### 1. Sales Analysis:
   - Comparison of Sales and Revenue
@@ -28,12 +34,6 @@ This project demonstrates a comprehensive analysis of Amazon sales data using Ex
   - Profit Share of Top 5 Items
   - Profit Margin of Items
   - Distribution of High Priority Orders Across Items
-
-## Data Cleaning Process
-- **Removed duplicates**
-- **Handled missing values**
-- **Formatted columns for consistency**
-- **Ensured data accuracy and completeness**
 
 ## Contact
 
