@@ -13,10 +13,10 @@ This project demonstrates a comprehensive analysis of Amazon sales data using Ex
 - **Power BI**: Data visualization and dashboard creation.
 
 - ## Data Cleaning Process
-- **1.Removed duplicates**
-- **2.Handled missing values**
-- **3.Formatted columns for consistency**
-- **4.Ensured data accuracy and completeness**
+  **1. Removed duplicates**
+  **2. Handled missing values**
+  **3. Formatted columns for consistency**
+  **4. Ensured data accuracy and completeness**
 
 ## Dashboards
 ### 1. Sales Analysis:
